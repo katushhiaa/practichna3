@@ -6,8 +6,7 @@
 
 ### 1. В наявному проекті відкрийте в редакторі клас
 
-### 2. Перевизначте методи onPause, onStart, onRestart для класу та внесіть
-зміни в метод onCreate
+### 2. Перевизначте методи onPause, onStart, onRestart для класу та внесіть зміни в метод onCreate
 
 **onCreate**
 ![image](https://github.com/katushhiaa/practichna3/assets/113555695/e9f5cc3d-2aa0-4fce-826f-60c373d06a79)
